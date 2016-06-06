@@ -85,3 +85,8 @@ sudo apt-get install festival festvox-kallpc16k
 * Mac OS X (comes with `say`)
 * Linux with Festival installed
 * Windows (comes with SAPI.SpVoice)
+
+## 声明
+
+* 不是我想抄袭发到npm上，那位大侠没有publish最新版本上去啊，看他项目的更新速度也很慢，只能自己fork再publish一份了
+* 尊重原著，亲们还是去用大侠的项目吧，我这个就自己用用而已
